@@ -1,3 +1,0 @@
-SimpleELN Documentation
-
-index.html
