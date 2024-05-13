@@ -23,7 +23,8 @@ release = '1.0.0'
 extensions = [
         'myst_parser',
         'sphinx_rtd_theme',
-        "sphinx_design"
+        "sphinx_design",
+        "sphinx.ext.githubpages"
     ]
 
 templates_path = ['_templates']
